@@ -1,4 +1,4 @@
-# Joint Savingss Challenge
+# Joint Savings Challenge
 
 The purpose of this challenge to use Solidity to create a smart contract that uses Ethereum management functions. The smart contract will automate the creation of joint savings account.
 
