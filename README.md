@@ -30,7 +30,7 @@ To run this project, simply clone the repository or download the files. Open a R
 
 Utilizing Remix IDE web browser instance, the user is able to set the recipient addresses for account1 and account2 using the 'setAccounts' function. 
 
-![Remix Set Accounts](Execution_Results/01_set_accounts.PNG)
+![Remix Set Accounts](Execution_Results/01_set_accounts.png)
 
 The user is then able to deposit funds into the account using the 'deposit' function. In this exercise, three separate deposits of 1ETH, 10ETH, and 5ETH are made. Notice the contract balance is increased as each deposit is made.
 
