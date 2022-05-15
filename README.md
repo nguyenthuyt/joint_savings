@@ -24,7 +24,10 @@ This challenge utilizes a web version of Remix IDE and as a result, you do not n
 The analysis is hosted on the following GitHub repository at: https://github.com/nguyenthuyt/joint_savings   
 
 ### **Run instructions:**
-To run this project, simply clone the repository or download the files. Open a Remix IDE web browser instance and navigate to the directory that contains the **joint_savings.sol** file, and then compile and deploy the file:
+To run this project, simply clone the repository or download the files. Open a Remix IDE web browser instance and navigate to the directory that contains the **joint_savings.sol** file, and then compile and deploy the file using Javascript VM environment:
+
+![Remix Compile](Execution_Results/compile.PNG)
+![Remix Deploy](Execution_Results/deploy.PNG)
 
 ## Remix IDE
 
